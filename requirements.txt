@@ -1,7 +1,0 @@
-opencv-python
-scikit-image
-numpy
-PyYAML
-Pillow
-scipy
-easyocr
