@@ -34,7 +34,7 @@ import numpy as np
 import imutils
 from imutils.video import VideoStream
 from imutils import face_utils
-import dlib
+#import dlib
 import cv2
 import pyttsx3
 
